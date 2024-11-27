@@ -18,6 +18,7 @@
 		73B1AE0C2C99407E0092D6A2 /* Student+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B1AE0A2C99407E0092D6A2 /* Student+CoreDataClass.swift */; };
 		73B1AE0D2C99407E0092D6A2 /* Student+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B1AE0B2C99407E0092D6A2 /* Student+CoreDataProperties.swift */; };
 		73B1AE0F2C9941450092D6A2 /* AddStudentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B1AE0E2C9941450092D6A2 /* AddStudentViewController.swift */; };
+		73CE94B82CF736310088D2B2 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CE94B72CF736310088D2B2 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		73B1AE0A2C99407E0092D6A2 /* Student+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Student+CoreDataClass.swift"; sourceTree = SOURCE_ROOT; };
 		73B1AE0B2C99407E0092D6A2 /* Student+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Student+CoreDataProperties.swift"; sourceTree = SOURCE_ROOT; };
 		73B1AE0E2C9941450092D6A2 /* AddStudentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddStudentViewController.swift; sourceTree = "<group>"; };
+		73CE94B72CF736310088D2B2 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				73B1ADF32C993F620092D6A2 /* SceneDelegate.swift */,
 				73B1ADF52C993F620092D6A2 /* ViewController.swift */,
 				73B1AE0E2C9941450092D6A2 /* AddStudentViewController.swift */,
+				73CE94B72CF736310088D2B2 /* SettingsViewController.swift */,
 				73B1AE082C993FBF0092D6A2 /* CoreDataManger.swift */,
 				73B1ADF72C993F620092D6A2 /* Main.storyboard */,
 				73B1ADFD2C993F630092D6A2 /* Assets.xcassets */,
@@ -161,6 +164,7 @@
 				73B1AE0D2C99407E0092D6A2 /* Student+CoreDataProperties.swift in Sources */,
 				73B1ADF22C993F620092D6A2 /* AppDelegate.swift in Sources */,
 				73B1ADF42C993F620092D6A2 /* SceneDelegate.swift in Sources */,
+				73CE94B82CF736310088D2B2 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
