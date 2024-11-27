@@ -3,7 +3,7 @@
 //  CoreData3
 //
 //  Created by patururamesh on 17/09/24.
-// creat a rameshchowdary
+// creat a ramesh chowdary
 
 import UIKit
 import CoreData
